@@ -1,0 +1,14 @@
+# Archivos compilados de Java
+*.class
+out/
+bin/
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
